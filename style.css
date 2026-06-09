@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 30px;
+}
+
+h1{
+    color: navy;
+}
+
+input{
+    padding: 8px;
+    margin: 5px;
+}
+
+button{
+    padding: 8px 15px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#hasil{
+    color: green;
+    margin-top: 20px;
+}
+
+#dataHobi{
+    color: blue;
+    font-weight: bold;
+}
